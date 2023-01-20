@@ -1,16 +1,10 @@
-# fl_test
+# 服务器状态监控（用户终端）
+使用flutter编写，如果不想自己编译构建可以使用我提供的安卓端，其它平台需要自己打包
 
-A new Flutter project.
+# 效果
+## 首页（打码的为ip地址）
+![avatar](./image/page1.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 设置（打码的为ip地址）
+输入ip地址与端口号和key值后点击保存4-5秒后即可在首页显示服务器状态
+![avatar](./image/page2.jpg)
